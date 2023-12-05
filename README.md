@@ -49,7 +49,7 @@ After vectorizing the categorical data through one-hot encoding, calculate the c
 
 After creating a user-item rating matrix, predict the rating by dividing the matrix using SVD.
 
-**(1) SVD model implementation (using external library)**
+**(1) SVD model implementation**
 
 The error value came out appropriately, but the disadvantage is that post-processing is not possible because the model is trained after filling it with 0 for cases where the user did not give a rating.
 

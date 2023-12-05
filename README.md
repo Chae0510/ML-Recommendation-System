@@ -1,5 +1,6 @@
 # Machine Learning Term Project - Team 2
 ![img.png](image/architecture.png)
+<br>
 Recommendation system using Content Based Filtering and Collaborate Filtering
 
 <br>
